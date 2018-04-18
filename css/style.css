@@ -1,0 +1,53 @@
+/*body amage and desine*/
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+   width: 100%;
+  background-image: url(https://static.pexels.com/photos/160038/pexels-photo-160038.jpeg);
+background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+}
+/* for head Aldawsari Saad*/
+h1 {
+ text-align: center;
+  color:white;
+  margin: auto;
+  font-style: oblique;
+  text-shadow: 2px 2px black;
+}
+/*button class desine */
+button{
+  margin-top:150px;
+  font-style: oblique;
+  width: 8%;
+  height: 30px;
+  background-color:black;
+  color:white;
+  margin-left:40%;
+  
+}
+/* text desine by JS "typeWriter" how looks like*/
+#demo{
+  color:white;
+  font-size:40px;
+  text-shadow: 2px 2px red;
+}
+/* down left text "UNA"* also ' wordsOnRight P'*/
+.wordsOnRight{
+ 
+  height: 150px;
+  width: 10%;
+  float: right;
+  margin-top:30%;
+  margin-right: 2%;
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px #FF0000;
+  /*background-color: ##400000 ;*/
+}
+.wordsOnRight p{
+  text-align: center;
+}
